@@ -1,0 +1,14 @@
+.notification-info {
+    color: cornflowerblue;
+    padding: 15px 20px;
+}
+
+.notification-success {
+    color: lightgreen;
+    padding: 15px 20px;
+}
+
+.notification-danger {
+    color: red;
+    padding: 15px 20px;
+}
